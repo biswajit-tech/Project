@@ -25,7 +25,7 @@ public class firstshjj {
 	
 	public void print()
 	{
-		
+		//hjh
 		System.out.println("vinod");
 	}
 }
