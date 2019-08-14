@@ -1,0 +1,15 @@
+Hi IDS Team,
+
+I am introduced added new user-story for Sept release for IDS Project. The User story cover as part of this relase as follows,
+
+US-409399 --> Desc added new column Customer ID attribute  into IDS- Customer Daily report for Ireland
+US-292099 --> Desc added new column Credit limit attribute into IDS- Customer monthly report for Netherland
+US-290100 --> Desc added new column Customer name attribute into IDS- Customer Quarterly report for India
+US-292899 --> Desc added new column Contract status code into IDS- Customer  Quarterly report for Poland
+US-288288 --> Desc added new column Customer credit balance into IDS- Customer report for monthly for USA
+US-928999 --> Desc added new column Contract delivery address into IDS- Customer report for monthly for Italy
+
+We will cover all the code in this directory as a part of development.
+
+Regards,
+Biswajit
