@@ -8,7 +8,7 @@ public class firstshjj {
  System.out.println("dhdhhhd");
  System.out.println("Biswajit ");
  
- System.out.println("vinod");
+ System.out.println("vinod svalagi");
 	}
 
 }
