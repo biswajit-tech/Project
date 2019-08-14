@@ -15,7 +15,17 @@ public class firstshjj {
  System.out.println(" vinods code added here");
  
  System.out.println("Biswajit added HPEFS QA member");
+ 
+ 
+ 
+ System.out.println(""vinod line for edit");
 
 	}
 
+	
+	public void print()
+	{
+		
+		System.out.println("vinod");
+	}
 }
