@@ -22,7 +22,7 @@ public class Class1 {
 			
 			System.out.println(" vinod is updating code 1");
 
-			System.out.println("12345555");
+			System.out.println("12345 555");
 			System.out.println("3377");
 			System.out.println("8288");
 			
