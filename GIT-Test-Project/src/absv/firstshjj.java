@@ -7,6 +7,12 @@ public class firstshjj {
 		
 		System.out.println("Vinods code");
 	}
+	
+	public void print()
+	{
+		
+		
+	}
 	}
 
 	
