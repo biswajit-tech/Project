@@ -16,14 +16,19 @@ public class Class1 {
 			f
 			
 			
-			fffff
+			f ffff
 			fff
 			System.out.println(" vinod is updating code");
 			//shhsjsjsjkskksssssssssssssssssssssssssssssssssss
 			System.out.println(" vinod is updating code 1");
+<<<<<<< HEAD
 
 			
 			System.out.println("12345555");
+=======
+
+			System.out.println("12345 555");
+>>>>>>> branch 'master' of https://github.com/biswajit-tech/Project.git
 			System.out.println("3377");
 			System.out.println("8288");
 			
