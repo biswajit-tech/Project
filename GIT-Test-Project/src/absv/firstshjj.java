@@ -13,7 +13,7 @@ public class firstshjj {
 	public void print()
 	{
 		
-	System.out.println("printing vinod ");	
+	System.out.println("printing vinod  ");	
 	}
 	}
  
