@@ -10,7 +10,14 @@ public class Class1 {
 			System.out.println("12345555");
 			System.out.println("vinod code");
 
+			f
+			f
 			
+			f
+			
+			
+			fffff
+			fff
 			System.out.println(" vinod is updating code");
 			
 			System.out.println(" vinod is updating code 1");
@@ -18,6 +25,13 @@ public class Class1 {
 			System.out.println("12345555");
 			System.out.println("3377");
 			System.out.println("8288");
+			
+			
+			syso---------biswa   
+			
+			fffffffffff
+			
+			ffffffffffffff
 
 		}
 	}
