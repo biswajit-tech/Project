@@ -19,20 +19,21 @@ public class Class1 {
 			fffff
 			fff
 			System.out.println(" vinod is updating code");
-			
+			//shhsjsjsjkskksssssssssssssssssssssssssssssssssss
 			System.out.println(" vinod is updating code 1");
 
+			
 			System.out.println("12345555");
 			System.out.println("3377");
 			System.out.println("8288");
 			
-			
+			//sjjsssssssssssssssssssssssssssssssss
 			syso---------biswa   
 			
 			fffffffffff
-			
+			//sjhjsjshjsssssssssssssssssssssssssssssssss
 			ffffffffffffff
-
+ //shsjsjsjjsjsjjjjsshsjsjjs
 		}
 	}
 }
