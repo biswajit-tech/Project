@@ -7,12 +7,15 @@ public class firstshjj {
 		
 		System.out.println("Vinods code");
 	}
-	
+	//Biswa chanegs below-----------------
+	 public void login() {
+	  }
 	public void print()
 	{
 		
 		
 	}
 	}
-
+ 
+  }
 	
