@@ -7,4 +7,4 @@ public class firstshjj {
 		
 		System.out.println("Vinods code");
 	}
-    }
+	}
