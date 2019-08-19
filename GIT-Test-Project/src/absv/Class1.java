@@ -9,6 +9,10 @@ public class Class1 {
 		{
 			
 			System.out.println("vinod code");
+			
+			System.out.println(" vinod is updating code");
+			
+			System.out.println(" vinod is updating code 1");
 		}
 	}
 }
